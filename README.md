@@ -56,20 +56,11 @@ Sou um estudante apaixonado por tecnologia, sempre buscando aprender, construir 
 
 ## 📬 Entre em contato
 
-📫 **Email:** *adicione aqui*
-🔗 **LinkedIn:** *adicione aqui*
+📫 **Email:** celsogabriel2727@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/celso-gabriel-441974250/ 
 
 ---
 
 ## ✨ Uma frase que me inspira:
 
 > “A tecnologia é uma jornada, e cada linha de código é um passo adiante.”
-
----
-
-Se quiser, posso acrescentar:
-✅ Badges
-✅ Banner personalizado
-✅ Animações
-✅ Seção de projetos fixados
-É só pedir!
