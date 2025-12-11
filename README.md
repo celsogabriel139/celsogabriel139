@@ -1,8 +1,3 @@
-Claro! Aqui está o **README atualizado**, organizado e já usando os **cards mais estáveis** para garantir que tudo funcione perfeitamente.
-Usei os *Profile Summary Cards*, que são atualmente os mais consistentes.
-
----
-
 # 🧑‍💻 Celso — Estudante & Criador em Evolução
 
 Bem-vindo ao meu espaço no GitHub!
