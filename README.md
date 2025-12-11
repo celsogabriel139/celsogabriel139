@@ -54,8 +54,8 @@ Sou um estudante apaixonado por tecnologia, sempre buscando aprender, construir 
 
 ## 📬 Entre em contato
 
-📫 **Email:** *adicione aqui*
-🔗 **LinkedIn:** *adicione aqui*
+📫 **Email:** celsogabriel2727@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/celso-gabriel-441974250/  
 
 ---
 
