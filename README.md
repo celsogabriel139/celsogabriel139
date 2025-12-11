@@ -1,4 +1,5 @@
-Perfeito! Aqui está o README já atualizado com o seu usuário **celsogabriel139**:
+Claro! Aqui está o **README atualizado**, organizado e já usando os **cards mais estáveis** para garantir que tudo funcione perfeitamente.
+Usei os *Profile Summary Cards*, que são atualmente os mais consistentes.
 
 ---
 
@@ -37,8 +38,9 @@ Sou um estudante apaixonado por tecnologia, sempre buscando aprender, construir 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=celsogabriel139&show_icons=true&hide_title=false&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsogabriel139&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsogabriel139&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celsogabriel139&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celsogabriel139&theme=tokyonight" />
 </p>
 
 ---
@@ -54,12 +56,20 @@ Sou um estudante apaixonado por tecnologia, sempre buscando aprender, construir 
 
 ## 📬 Entre em contato
 
-📫 **Email:** celsogabriel2727@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/celso-gabriel-441974250/  
+📫 **Email:** *adicione aqui*
+🔗 **LinkedIn:** *adicione aqui*
 
 ---
 
-## ✨ Uma frase que me move:
+## ✨ Uma frase que me inspira:
 
 > “A tecnologia é uma jornada, e cada linha de código é um passo adiante.”
 
+---
+
+Se quiser, posso acrescentar:
+✅ Badges
+✅ Banner personalizado
+✅ Animações
+✅ Seção de projetos fixados
+É só pedir!
